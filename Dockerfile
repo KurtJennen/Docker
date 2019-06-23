@@ -1,4 +1,4 @@
-# Version: 0.0.1
+# Version: 0.0.2
 FROM ubuntu:16.04
 LABEL maintainer="kurt.jennen@skynet.be"
 RUN apt-get update; apt-get install -y nginx
